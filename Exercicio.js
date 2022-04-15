@@ -1,3 +1,5 @@
+// Criar uma função que recebe um array e retorna a soma dele
+
 var MeuArray = [1,3,5,10]
 
 function SomaArray(arg){
@@ -9,3 +11,5 @@ function SomaArray(arg){
     return soma;
 }
 console.log(SomaArray(MeuArray))
+
+
